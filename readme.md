@@ -14,7 +14,9 @@ License: [MIT](./license.md)
 4. [Работа с удаленным репозиторием](./server.md)
    1. [Отправка изменений на сервер](./push.md)
    2. [Запрос изменений с сервера](./pull.md)
-5. [Игнорирование файлов](./gitignore.md)
+5. [Ветвление](./branches.md)
+6. [Игнорирование файлов](./gitignore.md)
+7. [Дополнительно](./addit.md)
 ---
 
 Logo by Jason Long https://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)

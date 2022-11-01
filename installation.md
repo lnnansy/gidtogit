@@ -7,8 +7,8 @@
 
 Далее открываем командную стройку и вводим:
 
-```bash=
->git version 
+```bash
+git version 
 ```
 В окошке командной строки отобразится версия установленного GIT.
 Например:
@@ -35,8 +35,8 @@ git config --global user.email "<your-email@email.com>"
 При инициализации репозитория командой git init, Git создаёт ветку с именем master по умолчанию. 
 Для изменения названия главной ветки используется команда
 
-```
-$ git config --global init.defaultBranch main
+```bash=
+git config --global init.defaultBranch main
 ```
 
 В результате используемая ветка по умолчанию будет назваться *main*.
@@ -45,7 +45,7 @@ $ git config --global init.defaultBranch main
 
 Для проверки используемой конфигурации, применяется команда
 
-```
+```bash=
 git config --list
 ```
 
@@ -59,7 +59,7 @@ git config --list
 
 Для того, чтобы посмотреть все возможности настроек GIT, используйте команду:
 
-```
+```bash=
 git config --help
 ```
 
