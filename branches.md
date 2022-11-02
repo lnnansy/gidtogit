@@ -12,6 +12,8 @@
 
 `git branch` -отобразит все ветки проекта (ветка помеченная \`*` является главной)
 
+![gitbranch](./gitbranch.jpg)
+
 `git branch <branch-name>` -создает новую ветку с названием <branch-name>
 
 ```
