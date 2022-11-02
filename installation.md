@@ -67,3 +67,5 @@ git config --list
 git config --help
 ```
 
+[далее](./directory.md) >
+

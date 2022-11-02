@@ -9,3 +9,4 @@
 git push origin master
 ```
 
+[далее](./pull.md) >
