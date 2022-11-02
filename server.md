@@ -8,8 +8,8 @@
 Пример:
 
 ```
->git remote add origin https://github.com/lnnansy/gidtogit
->git remote
+git remote add origin https://github.com/lnnansy/gidtogit
+git remote
 origin
 ```
 
